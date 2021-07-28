@@ -1,4 +1,4 @@
-# Fundamentals_Of_Mordern_Optics
+# Fundamentals_Of_Modern_Optics
 
 #### Yunfei Huang's Homework of Fundamentals Of Mordern Optics in Semester SP2021, under the supervision of Prof. Kun Huang.
 
